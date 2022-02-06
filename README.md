@@ -1,2 +1,2 @@
 # PIS
-Link na porjekt - https://github.com/Gabriela1719/PlanPrehrane.git
+Link na backend porjekta - https://github.com/Gabriela1719/PlanPrehrane.git
